@@ -1,3 +1,7 @@
+0.1.6 / 2013-06-07
+
+	* Improved date-time regex
+	* Fixed case for non-required schemas with formats 
 
 0.1.3 / 2012-10-17
 ==================
